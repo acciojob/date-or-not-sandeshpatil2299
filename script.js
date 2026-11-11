@@ -1,5 +1,6 @@
 var isDate = function (input) {
   //   write your code here
+	return !isNaN(Date.parse(intpu));
 };
 
 // Do not change the code below.
